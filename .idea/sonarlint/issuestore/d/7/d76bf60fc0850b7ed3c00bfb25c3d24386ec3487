@@ -1,0 +1,7 @@
+
+r
+java:S1450"URemove the "number" field and declare it as a local variable in the relevant methods.(òù´Ê8±ŠÍÀü/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Íƒ¼ñüÿÿÿÿ8—ˆÅÀü/
+E
+java:S2140")Use "java.util.Random.nextInt()" instead.(Íó¨58–ˆÅÀü/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢©·¯ıÿÿÿÿ8ÌªÅÀü/
